@@ -1,0 +1,10 @@
+''' idk '''
+class Main:
+    ''' idk '''
+
+    def add_num(self,num = 2):
+        ''' adds numbers '''
+        if num > 0:
+            total = num + 1
+        return total
+        
