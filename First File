@@ -1,0 +1,9 @@
+'''
+add num
+'''
+
+def add_num(num):
+    if num > 0:
+        total = num+1
+    return total
+print(add_num(1))
